@@ -172,3 +172,5 @@ cython_debug/
 
 # custom
 *.code-workspace
+data/
+test/
